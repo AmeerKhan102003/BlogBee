@@ -40,4 +40,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 IMAGES
 ![Uploading Screenshot 2023-06-21 231327.png…]()
 ![Uploading Screenshot 2023-06-21 231342.png…]()
-![WhatsApp Image 2023-06-21 at 21 36 15](https://github.com/aman9738/blogBee/assets/112307869/06ce6369-c17e-493b-8219-bf4b5804d086)
+
